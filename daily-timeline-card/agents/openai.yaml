@@ -1,0 +1,10 @@
+interface:
+  display_name: "一日时间轴卡片"
+  short_description: "把一日日程生成按时长等比例展示的简洁时间轴"
+  icon_small: "./assets/icon-small.svg"
+  icon_large: "./assets/icon-large.svg"
+  brand_color: "#30404C"
+  default_prompt: "使用 $daily-timeline-card 制作一日时间轴；请先告诉我输入格式和完整流程，再等我粘贴真实日程。"
+policy:
+  allow_implicit_invocation: true
+
