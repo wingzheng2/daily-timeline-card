@@ -22,7 +22,7 @@
 
 ```text
 请检查并安装这个 GitHub 仓库中 daily-timeline-card/ 目录里的 Skill：
-https://github.com/你的用户名/daily-timeline-card
+https://github.com/wingzheng2/daily-timeline-card
 
 安装前请先检查文件结构和脚本安全性。
 ```
