@@ -103,7 +103,7 @@ python3 daily-timeline-card/scripts/render_timeline.py schedule.json --png timel
 
 ## 版权
 
-Skill 的原创说明、工作流程、渲染代码和视觉规范由 `zoeyzh` 保留权利。允许个人、非商业用途安装和使用未经修改的版本；重新发布、出售、提供付费服务、制作衍生版本或移除署名，需要事先获得许可。完整条款见 [LICENSE](LICENSE)。
+Skill 的原创说明、工作流程、渲染代码和视觉规范由 `wingzheng2` 保留权利。允许个人、非商业用途安装和使用未经修改的版本；重新发布、出售、提供付费服务、制作衍生版本或移除署名，需要事先获得许可。完整条款见 [LICENSE](LICENSE)。
 
 内嵌字体数据来自 Noto Sans CJK 的轻量子集，适用的第三方授权见 [licenses/NotoSansCJK-LICENSE.txt](licenses/NotoSansCJK-LICENSE.txt)。
 
